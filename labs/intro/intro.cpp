@@ -1,4 +1,4 @@
-/* Program Name: PROGRAM NAME HERE
+/* Program Name: Henry Ce
  * Student Name: YOUR NAME HERE
  * Net ID: NETID HERE
  * Student ID: STUDENT ID HERE (000-12-3456)
@@ -12,4 +12,7 @@
 
 using namespace std;
 
-int main() { return 0; }
+int main() { 
+    cout << "hello world" << endl;
+    return 0; 
+}

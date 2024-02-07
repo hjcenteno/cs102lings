@@ -1,6 +1,6 @@
-/* Program Name: PROGRAM NAME HERE
- * Student Name: YOUR NAME HERE
- * Net ID: NETID HERE
+/* Program Name: Take Home Pay
+ * Student Name: Henry Centeno
+ * Net ID: 000
  * Student ID: STUDENT ID HERE (000-12-3456)
  * Program Description: BRIEF, 1-2 SENTENCE DESCRIPTION HERE */
 
